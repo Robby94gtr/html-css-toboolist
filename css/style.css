@@ -27,8 +27,6 @@
 
 /* main */
 
-/* top */
-
 .add-task{
     color: white;
     background-color: rgb(90, 188, 244);
@@ -91,4 +89,15 @@
     margin-bottom: 9px;
     list-style: none;
 
+}
+
+.editorial{
+    color: white;
+    background-color: rgb(90, 188, 244);
+    border-radius: 15px;
+    display: inline-block;
+    padding: 5px;
+    font-size: 10px;
+    width: 60px;
+    text-align: center;
 }

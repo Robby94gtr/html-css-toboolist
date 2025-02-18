@@ -7,8 +7,11 @@
 /* header */
 
 .logo{
-    display: inline;
     margin-top: 10px;
+}
+
+.display-inline{
+    display: inline;
 }
 
 .v-align-middle{
@@ -20,3 +23,20 @@
 } 
 
 /* header end */
+
+
+/* main */
+
+/* top */
+
+.add-task{
+    color: white;
+    background-color: rgb(90, 188, 244);
+    width: 100px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 100px 10px 150px 300px;
+    padding: 3px 0px;
+    box-sizing: content-box;
+}
+

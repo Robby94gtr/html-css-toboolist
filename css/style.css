@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+
+.logo{
+    display: inline;
+    margin-top: 10px;
+}
+
+.v-align-middle{
+    vertical-align: middle;
+}
+
+.margin-logo{
+    margin-left: 15px;
+} 
+
+/* header end */

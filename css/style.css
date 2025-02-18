@@ -29,10 +29,6 @@
 
 /* top */
 
-.main{
-    margin="100px 0px 0px 200px"
-}
-
 .add-task{
     color: white;
     background-color: rgb(90, 188, 244);
@@ -69,14 +65,30 @@
 
 .li2{
     margin-top: 6px;
-    margin-left: 25px;
+    margin-left: 0px;
     margin-bottom: 25px;
     list-style: none;
 }
 
 .li3{
     margin-top: 6px;
-    margin-left: 25px;
+    margin-left: 0px;
     margin-bottom: 9px;
     list-style: none;
+}
+
+.tick{
+    width: 20px;
+}
+
+.cross{
+    width: 26px;
+    margin-left: 0px;
+}
+
+.licross{margin-top: 6px;
+    margin-left: -3px;
+    margin-bottom: 9px;
+    list-style: none;
+
 }

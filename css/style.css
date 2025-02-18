@@ -29,8 +29,8 @@
 
 /* top */
 
-.top-margin{
-    margin: 1000px;
+.main{
+    margin="100px 0px 0px 200px"
 }
 
 .add-task{
@@ -39,7 +39,7 @@
     width: auto;
     text-align: center;
     border-radius: 5px;
-    margin: 100px 0px 50px 200px;
+    margin: 100px 0px 50px 220px;
     padding: 6px;
     display: inline-block;
     box-sizing: content-box;
@@ -59,3 +59,24 @@
     display: inline;
 }
 
+.list{
+    margin-left: 220px;
+}
+
+.list-type1{
+    list-style: none;
+}
+
+.li2{
+    margin-top: 6px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+    list-style: none;
+}
+
+.li3{
+    margin-top: 6px;
+    margin-left: 25px;
+    margin-bottom: 9px;
+    list-style: none;
+}
